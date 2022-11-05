@@ -1,0 +1,3 @@
+[submodule "mariosdaskalasblogging/public"]
+	path = mariosdaskalasblogging/public
+	url = https://github.com/mariosdaskalas/mariosdaskalas.github.io.git
